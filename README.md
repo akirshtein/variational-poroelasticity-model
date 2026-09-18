@@ -1,4 +1,4 @@
-# variational-poroelasticity
+# variational-poroelasticity-model
 
 Code and data for ***A variational model of nonlinear poroelasticity*** (Adler, Hu,
 Kirshtein).
