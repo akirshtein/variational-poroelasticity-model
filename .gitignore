@@ -1,0 +1,17 @@
+# Simulation output. run_footing.py writes VTK snapshots here and they are large
+# (~5 GB per configuration, ~43 GB for all nine) -- never commit these.
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,20 @@
+# Footing configuration reproducing the paper's Section 4.4 runs.
+# E = 1000, nu = 0.2  ->  mu = 416.667, lambda = 277.778
+[model]
+mu    = 416.6666666667
+lam   = 277.7777777778
+alpha = 1.0
+kappa = 1e-2
+M     = 1.0
+gamma = 1
+
+[numerics]
+K      = 128
+dt     = 1e-3
+T      = 2.0
+T_ramp = 1.0
+load   = 100
+
+[problem]
+# side treatment: clamped | sliding | free
+side_case = sliding

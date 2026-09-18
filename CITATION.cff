@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper it accompanies."
+title: "variational-poroelasticity: code for A variational model of nonlinear poroelasticity"
+abstract: >-
+  Two-field finite-element solver and experiment drivers reproducing the numerical
+  results of "A variational model of nonlinear poroelasticity": manufactured-solution
+  convergence in the model's energy norms, the discrete energy-law defect on a sealed
+  blob, and footing consolidation across three lateral-boundary treatments and three
+  fluid-compressibility exponents.
+type: software
+license: MIT
+authors:
+  - family-names: Adler
+    given-names: James H.
+    orcid: "https://orcid.org/0000-0002-6603-8840"
+    affiliation: "Department of Mathematics, Tufts University"
+  - family-names: Hu
+    given-names: Xiaozhe
+    orcid: "https://orcid.org/0000-0001-7533-0416"
+    affiliation: "Department of Mathematics, Tufts University"
+  - family-names: Kirshtein
+    given-names: Arkadz
+    orcid: "https://orcid.org/0000-0002-1205-3359"
+    affiliation: "Department of Mathematics & Statistics, Texas A&M University -- Corpus Christi"
+
+# A tagged version and an archived software DOI will be added here once the
+# accompanying paper is published.
+# repository-code: ""
+# version: ""
+# doi: ""
+# date-released: ""
+
+preferred-citation:
+  type: article
+  title: "A variational model of nonlinear poroelasticity"
+  authors:
+    - family-names: Adler
+      given-names: James H.
+      orcid: "https://orcid.org/0000-0002-6603-8840"
+    - family-names: Hu
+      given-names: Xiaozhe
+      orcid: "https://orcid.org/0000-0001-7533-0416"
+    - family-names: Kirshtein
+      given-names: Arkadz
+      orcid: "https://orcid.org/0000-0002-1205-3359"
+  year: 2026
+  # The paper is not yet published. The journal reference, DOI and preprint link
+  # will be added here once it appears.
+  # journal: ""
+  # doi: ""
+  # url: ""
